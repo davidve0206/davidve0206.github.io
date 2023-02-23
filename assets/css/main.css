@@ -1832,6 +1832,10 @@ input, select, textarea {
 		font-size: 0.9em;
 	}
 
+	.blurb li {
+		font-size: 0.9em;
+	}
+
 /* Box */
 
 	.box {
